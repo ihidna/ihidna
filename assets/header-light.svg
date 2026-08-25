@@ -1,53 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Kadyr, full-stack product builder</title>
-  <desc id="desc">An editorial technical cover with Kadyr's name and a four-part build loop.</desc>
-
-  <rect width="1200" height="420" fill="#F3F0E8"/>
-  <path d="M0 28H1200M0 392H1200" stroke="#171816" stroke-width="1" opacity="0.22"/>
-  <path d="M28 0V420M1172 0V420" stroke="#171816" stroke-width="1" opacity="0.22"/>
-
-  <g fill="none" stroke="#171816" stroke-width="1" opacity="0.1">
-    <path d="M790 60V350M846 60V350M902 60V350M958 60V350M1014 60V350M1070 60V350M1126 60V350"/>
-    <path d="M766 84H1148M766 140H1148M766 196H1148M766 252H1148M766 308H1148"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Kadyr - I make the parts talk</title>
+  <desc id="desc">A quiet editorial profile cover connecting questions, structure, and release.</desc>
+  <style>
+    .signal { animation: pulse 6s ease-in-out infinite; }
+    .signal-2 { animation-delay: -2s; }
+    .signal-3 { animation-delay: -4s; }
+    @keyframes pulse { 0%, 26%, 100% { opacity: 0.22; } 8%, 18% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .signal { animation: none; opacity: 1; } }
+  </style>
+  <path d="M32 28H1168M32 372H1168" stroke="#D0D7DE" stroke-width="1"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#656D76">
+    <text x="32" y="52">KADYR / FULL-STACK BUILDER</text>
+    <text x="1168" y="52" text-anchor="end">TURKMENISTAN / UTC+5</text>
   </g>
-
-  <g font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#171816">
-    <text x="48" y="58">KDR / PROFILE 01</text>
-    <text x="1148" y="58" text-anchor="end">TURKMENISTAN / UTC+5</text>
+  <text x="32" y="153" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700" fill="#1F2328">I make the</text>
+  <text x="32" y="244" font-family="Georgia, 'Times New Roman', serif" font-size="92" font-weight="700" font-style="italic" fill="#1F2328">parts talk</text>
+  <circle cx="457" cy="226" r="8" fill="#9A6A00"/>
+  <text x="38" y="294" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#656D76">Interfaces, logic, and automation moving as one product.</text>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#1F2328">
+    <text x="38" y="338">WEB</text><text x="105" y="338" fill="#9A6A00">/</text>
+    <text x="129" y="338">MOBILE</text><text x="224" y="338" fill="#9A6A00">/</text><text x="248" y="338">SYSTEMS</text>
   </g>
-
-  <rect x="48" y="102" width="7" height="150" fill="#C33C2F"/>
-  <text x="76" y="217" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="800" fill="#171816">KADYR</text>
-  <text x="80" y="265" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700" fill="#C33C2F">FULL-STACK / PRODUCT / AUTOMATION</text>
-  <path d="M80 286H650" stroke="#171816" stroke-width="1"/>
-  <text x="80" y="319" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#4F504B">Interfaces with a system behind them.</text>
-
-  <g transform="translate(786 88)">
-    <rect x="0" y="0" width="350" height="238" fill="#F3F0E8" stroke="#171816" stroke-width="2"/>
-    <path d="M175 0V238M0 119H350" stroke="#171816" stroke-width="1" opacity="0.42"/>
-
-    <g font-family="Consolas, 'Courier New', monospace" fill="#171816">
-      <text x="18" y="26" font-size="11">01</text>
-      <text x="193" y="26" font-size="11">02</text>
-      <text x="18" y="145" font-size="11">03</text>
-      <text x="193" y="145" font-size="11">04</text>
-
-      <text x="18" y="96" font-size="16" font-weight="700">INTERFACE</text>
-      <text x="193" y="96" font-size="16" font-weight="700">LOGIC</text>
-      <text x="18" y="215" font-size="16" font-weight="700">SYSTEM</text>
-      <text x="193" y="215" font-size="16" font-weight="700">SHIP</text>
+  <g transform="translate(680 82)">
+    <path d="M34 48C136 48 119 136 224 136S318 48 420 48" fill="none" stroke="#8C959F" stroke-width="1.5"/>
+    <path d="M224 136V225H420" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+    <g font-family="Consolas, 'Courier New', monospace">
+      <text x="34" y="20" text-anchor="middle" font-size="11" fill="#656D76">01</text>
+      <text x="224" y="108" text-anchor="middle" font-size="11" fill="#656D76">02</text>
+      <text x="420" y="20" text-anchor="middle" font-size="11" fill="#656D76">03</text>
+      <text x="34" y="86" text-anchor="middle" font-size="13" font-weight="700" fill="#1F2328">QUESTION</text>
+      <text x="224" y="174" text-anchor="middle" font-size="13" font-weight="700" fill="#1F2328">STRUCTURE</text>
+      <text x="420" y="86" text-anchor="middle" font-size="13" font-weight="700" fill="#1F2328">RELEASE</text>
+      <text x="420" y="245" text-anchor="end" font-size="11" fill="#656D76">CHECK / LEARN / LOOP</text>
     </g>
-
-    <path d="M48 48H224V168H304" fill="none" stroke="#C33C2F" stroke-width="3"/>
-    <circle cx="48" cy="48" r="7" fill="#F3F0E8" stroke="#C33C2F" stroke-width="3"/>
-    <circle cx="224" cy="48" r="7" fill="#F3F0E8" stroke="#C33C2F" stroke-width="3"/>
-    <circle cx="224" cy="168" r="7" fill="#F3F0E8" stroke="#C33C2F" stroke-width="3"/>
-    <circle cx="304" cy="168" r="7" fill="#C33C2F"/>
+    <circle cx="34" cy="48" r="13" fill="#FFFFFF" stroke="#1F2328" stroke-width="2"/><circle class="signal signal-1" cx="34" cy="48" r="5" fill="#9A6A00"/>
+    <circle cx="224" cy="136" r="13" fill="#FFFFFF" stroke="#1F2328" stroke-width="2"/><circle class="signal signal-2" cx="224" cy="136" r="5" fill="#9A6A00"/>
+    <circle cx="420" cy="48" r="13" fill="#FFFFFF" stroke="#1F2328" stroke-width="2"/><circle class="signal signal-3" cx="420" cy="48" r="5" fill="#9A6A00"/>
+    <path d="M420 218L420 232L434 225Z" fill="#9A6A00"/>
   </g>
-
-  <g font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#171816">
-    <text x="48" y="372">ARMYT STUDIO</text>
-    <text x="600" y="372" text-anchor="middle">WEB / MOBILE / TOOLS</text>
-    <text x="1152" y="372" text-anchor="end">BUILD SYSTEM / REV 01</text>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#656D76">
+    <text x="32" y="391">ONE PERSON / WHOLE SYSTEM</text><text x="1168" y="391" text-anchor="end">PROFILE / 01</text>
   </g>
 </svg>
