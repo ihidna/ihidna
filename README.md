@@ -1,48 +1,37 @@
 <div align="center">
-
-# KADYR
-
-### Full-Stack Developer
-
-<sub>product thinking · backend logic · interfaces · automation · AI-assisted workflow</sub>
-
-<br/>
-
-<a href="https://t.me/its_n0t_me">telegram</a>
-&nbsp;&nbsp;/&nbsp;&nbsp;
-<a href="mailto:gigaforce13@gmail.com">email</a>
-
+<img src="./assets/profile-vibe.svg" width="100%" alt="Kadyr — Full-Stack Developer" />
+<br/><br/>
+<a href="https://t.me/its_n0t_me"><b>telegram</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:gigaforce13@gmail.com"><b>email</b></a>
 </div>
 
----
-
-### 00 — a short note
-
-> I like taking an unclear idea and staying with it long enough for it to become a real, usable product.
->
-> Not only the screen. Not only the backend. The whole thing.
-
-I work across the full stack and care about how the pieces behave **together**.  
-My work usually sits somewhere between product thinking, interface, backend logic, integrations, automation and the boring edge cases that decide whether something is actually finished.
-
 <br/>
 
-### 01 — how I think
+## I build the whole thing.
+
+Not only the screen and not only the backend. I like following a product from the first unclear idea to the point where it actually works, feels right, and can be used by someone other than me.
+
+My work usually sits somewhere between **product thinking, interface, backend logic, integrations, automation and the boring edge cases that decide whether something is actually finished.**
+
+<br/>
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
-**Start with the shape of the problem.**
+### `01 / experience`
 
-Before choosing a framework or writing code, I try to understand what actually needs to exist, what can be removed, and where complexity really belongs.
+I work across the full stack and care about how the pieces behave together.
+
+I prefer understanding the system first, then choosing the tools — not collecting technologies just to list them.
 
 </td>
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
-**Keep the surface calm.**
+### `02 / taste`
 
-Simple outside. Thought-through underneath. Clear flows, useful defaults, readable code, fewer unnecessary decisions.
+Simple outside. Thought-through underneath.
+
+I care about hierarchy, tiny interactions, useful defaults, clear flows and removing things that don't need to exist.
 
 </td>
 </tr>
@@ -50,62 +39,63 @@ Simple outside. Thought-through underneath. Clear flows, useful defaults, readab
 
 <br/>
 
-### 02 — AI is inside the workflow
-
-I use AI constantly, but not as an autopilot. It is a working layer I use to **research faster, explore alternatives, draft, debug, refactor, challenge assumptions and remove repetition**.
-
-The direction, architecture, trade-offs and final result still stay mine.
+## `how I work with AI`
 
 ```text
-rough idea
-   ↓
+problem
+  ↓
 understand the context
-   ↓
-ask better questions
-   ↓
-use AI to explore / compare / accelerate
-   ↓
+  ↓
+use AI to explore / research / draft / challenge
+  ↓
 build the real thing
-   ↓
-read it · test it · question it
-   ↓
+  ↓
+read the code · test the behavior · question the output
+  ↓
 polish until it feels intentional
+```
+
+AI gives me **speed and range**. I still own the direction, architecture, trade-offs and final result. I use it as a working layer across research, coding, debugging, refactoring, documentation and repetitive tasks — not as a replacement for understanding what I'm shipping.
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### THINK
+Before touching code, reduce the problem until the important part is obvious.
+
+</td>
+<td width="33%" valign="top">
+
+### BUILD
+Move quickly, keep the system understandable, and make the parts talk to each other.
+
+</td>
+<td width="33%" valign="top">
+
+### REFINE
+Test the awkward cases. Remove friction. Keep going after “it works.”
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```ts
+const wayIWork = {
+  curiosity: "high",
+  egoAboutTools: "low",
+  ai: "copilot, not autopilot",
+  finishLine: "useful + clear + shipped"
+};
 ```
 
 <br/>
 
-### 03 — the way I work
-
-`think` → `build` → `break` → `understand why` → `refine` → `ship`
-
-<br/>
-
-| principle | what it means to me |
-|---|---|
-| **useful > impressive** | the product has to solve something before it performs for attention |
-| **readable > clever** | code I can explain later is better than code that only looks smart now |
-| **system > isolated feature** | every decision affects something else |
-| **finished > almost polished** | awkward cases matter just as much as the happy path |
-| **AI = leverage** | speed is valuable only if understanding survives |
-
-<br/>
-
-### 04 — experience, without the résumé voice
-
-I prefer learning by shipping real things, hitting real constraints, fixing what breaks, and then making the next version cleaner.
-
-That means I spend time moving between UI, APIs, data, auth, integrations, deployment, debugging and automation instead of staying inside one narrow layer.
-
-I do not collect technologies for the sake of listing them. I choose tools based on the problem and keep learning whatever the next useful thing requires.
-
-<br/>
-
----
-
 <div align="center">
-
-<sub>less noise / more useful things</sub>
-
-<sub>ihidna · 2026</sub>
-
+<sub>less theatre · more useful things</sub><br/>
+<sub>ihidna</sub>
 </div>
