@@ -1,22 +1,71 @@
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/header-mobile-dark.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/header-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Kadyr. I make the parts talk: interface, logic, and automation." src="./assets/header-light.svg" width="100%">
-</picture>
+<div align="center">
 
-<p align="center">
-  <a href="https://t.me/its_n0t_me"><strong>TELEGRAM</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:gigaforce13@gmail.com"><strong>EMAIL</strong></a>
-</p>
+<img src="./assets/profile-vibe.svg" width="100%" alt="Kadyr — Full-Stack Developer" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/range-mobile-dark.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/range-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/range-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/range-light.svg">
-  <img alt="Selected systems: Armyt Studio, Jarvis, and YTBot." src="./assets/range-light.svg" width="100%">
-</picture>
+<br/>
 
+<a href="https://t.me/its_n0t_me"><b>telegram</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:gigaforce13@gmail.com"><b>email</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/ihidna"><b>github</b></a>
+
+</div>
+
+<br/>
+
+```txt
+> not collecting technologies.
+> building systems that feel simple on the outside
+> and do the complicated work underneath.
+```
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 01 / PRODUCT
+Interfaces with intent.  
+Clean flows, sharp details, less noise.
+
+</td>
+<td width="33%" valign="top">
+
+### 02 / ENGINE
+APIs, data, business logic.  
+The invisible part that makes it real.
+
+</td>
+<td width="33%" valign="top">
+
+### 03 / AUTOMATE
+Tools that remove repetition.  
+If a machine can do it, it probably should.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### `selected transmissions`
+
+**DURNA** — marketplace / commerce system  
+**ARMYT STUDIO** — digital products + creative infrastructure  
+**JARVIS** — automation experiments and personal tooling
+
+<br/>
+
+```ts
+while (curious) {
+  design();
+  build();
+  breakThings();
+  understandWhy();
+  ship();
+}
+```
+
+<div align="right">
+<sub>soft pixels / hard logic — ihidna</sub>
+</div>
