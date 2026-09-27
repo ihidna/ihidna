@@ -1,10 +1,40 @@
 <div align="center">
-<img src="./assets/profile-vibe.svg" width="100%" alt="Kadyr — Full-Stack Developer" />
-<br/><br/>
-<a href="https://t.me/its_n0t_me"><b>telegram</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:gigaforce13@gmail.com"><b>email</b></a>
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ ihidna / personal runtime                                      status: live │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│            .                .               KADYR                             │
+│         .     .          .     .            Full-Stack Developer              │
+│       .         .      .         .                                             │
+│      ·           ·────·           ·         build end-to-end                  │
+│       .         .      .         .          think in systems                  │
+│         .     .          .     .            use AI deliberately               │
+│            '                '                                                   │
+│                                                                              │
+│      signal: quiet / precise / curious      mode: useful > impressive         │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+<a href="https://t.me/its_n0t_me"><b>telegram</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:gigaforce13@gmail.com"><b>email</b></a>
+
 </div>
 
 <br/>
+
+```txt
+$ whoami
+Kadyr — Full-Stack Developer
+
+$ cat mindset.txt
+I like systems that feel calm on the surface and do serious work underneath.
+I use AI to move faster, explore more options, and reduce repetitive work —
+but I still own the reasoning, architecture, trade-offs and final result.
+```
 
 ## I build the whole thing.
 
@@ -42,45 +72,27 @@ I care about hierarchy, tiny interactions, useful defaults, clear flows and remo
 ## `how I work with AI`
 
 ```text
-problem
-  ↓
-understand the context
-  ↓
-use AI to explore / research / draft / challenge
-  ↓
-build the real thing
-  ↓
-read the code · test the behavior · question the output
-  ↓
-polish until it feels intentional
+[ problem ]
+     │
+     ▼
+[ understand context ]
+     │
+     ├── ask better questions
+     ├── explore alternatives
+     ├── research faster
+     └── remove repetitive work
+     │
+     ▼
+[ build the real thing ]
+     │
+     ▼
+[ read · test · challenge · refine ]
+     │
+     ▼
+[ ship something I understand ]
 ```
 
 AI gives me **speed and range**. I still own the direction, architecture, trade-offs and final result. I use it as a working layer across research, coding, debugging, refactoring, documentation and repetitive tasks — not as a replacement for understanding what I'm shipping.
-
-<br/>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### THINK
-Before touching code, reduce the problem until the important part is obvious.
-
-</td>
-<td width="33%" valign="top">
-
-### BUILD
-Move quickly, keep the system understandable, and make the parts talk to each other.
-
-</td>
-<td width="33%" valign="top">
-
-### REFINE
-Test the awkward cases. Remove friction. Keep going after “it works.”
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -89,13 +101,45 @@ const wayIWork = {
   curiosity: "high",
   egoAboutTools: "low",
   ai: "copilot, not autopilot",
+  code: "readable before clever",
   finishLine: "useful + clear + shipped"
 };
 ```
 
 <br/>
 
-<div align="center">
-<sub>less theatre · more useful things</sub><br/>
-<sub>ihidna</sub>
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### THINK
+Reduce the problem until the important part becomes obvious.
+
+</td>
+<td width="33%" valign="top">
+
+### BUILD
+Move quickly without turning the system into something I can't explain later.
+
+</td>
+<td width="33%" valign="top">
+
+### REFINE
+Test awkward cases, remove friction, and keep going after “it works.”
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```text
+> less theatre
+> more useful things
+> keep the surface quiet
+> make the inside strong
+```
+
+<div align="right">
+<sub>ihidna / 2026</sub>
 </div>
