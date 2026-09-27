@@ -1,67 +1,48 @@
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ ihidna / personal runtime                                      status: live │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│            .                .               KADYR                             │
-│         .     .          .     .            Full-Stack Developer              │
-│       .         .      .         .                                             │
-│      ·           ·────·           ·         build end-to-end                  │
-│       .         .      .         .          think in systems                  │
-│         .     .          .     .            use AI deliberately               │
-│            '                '                                                   │
-│                                                                              │
-│      signal: quiet / precise / curious      mode: useful > impressive         │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+# KADYR
 
-<a href="https://t.me/its_n0t_me"><b>telegram</b></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:gigaforce13@gmail.com"><b>email</b></a>
+### Full-Stack Developer
+
+<sub>product thinking · backend logic · interfaces · automation · AI-assisted workflow</sub>
+
+<br/>
+
+<a href="https://t.me/its_n0t_me">telegram</a>
+&nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="mailto:gigaforce13@gmail.com">email</a>
 
 </div>
 
-<br/>
+---
 
-```txt
-$ whoami
-Kadyr — Full-Stack Developer
+### 00 — a short note
 
-$ cat mindset.txt
-I like systems that feel calm on the surface and do serious work underneath.
-I use AI to move faster, explore more options, and reduce repetitive work —
-but I still own the reasoning, architecture, trade-offs and final result.
-```
+> I like taking an unclear idea and staying with it long enough for it to become a real, usable product.
+>
+> Not only the screen. Not only the backend. The whole thing.
 
-## I build the whole thing.
-
-Not only the screen and not only the backend. I like following a product from the first unclear idea to the point where it actually works, feels right, and can be used by someone other than me.
-
-My work usually sits somewhere between **product thinking, interface, backend logic, integrations, automation and the boring edge cases that decide whether something is actually finished.**
+I work across the full stack and care about how the pieces behave **together**.  
+My work usually sits somewhere between product thinking, interface, backend logic, integrations, automation and the boring edge cases that decide whether something is actually finished.
 
 <br/>
+
+### 01 — how I think
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
-### `01 / experience`
+**Start with the shape of the problem.**
 
-I work across the full stack and care about how the pieces behave together.
-
-I prefer understanding the system first, then choosing the tools — not collecting technologies just to list them.
+Before choosing a framework or writing code, I try to understand what actually needs to exist, what can be removed, and where complexity really belongs.
 
 </td>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-### `02 / taste`
+**Keep the surface calm.**
 
-Simple outside. Thought-through underneath.
-
-I care about hierarchy, tiny interactions, useful defaults, clear flows and removing things that don't need to exist.
+Simple outside. Thought-through underneath. Clear flows, useful defaults, readable code, fewer unnecessary decisions.
 
 </td>
 </tr>
@@ -69,77 +50,62 @@ I care about hierarchy, tiny interactions, useful defaults, clear flows and remo
 
 <br/>
 
-## `how I work with AI`
+### 02 — AI is inside the workflow
+
+I use AI constantly, but not as an autopilot. It is a working layer I use to **research faster, explore alternatives, draft, debug, refactor, challenge assumptions and remove repetition**.
+
+The direction, architecture, trade-offs and final result still stay mine.
 
 ```text
-[ problem ]
-     │
-     ▼
-[ understand context ]
-     │
-     ├── ask better questions
-     ├── explore alternatives
-     ├── research faster
-     └── remove repetitive work
-     │
-     ▼
-[ build the real thing ]
-     │
-     ▼
-[ read · test · challenge · refine ]
-     │
-     ▼
-[ ship something I understand ]
-```
-
-AI gives me **speed and range**. I still own the direction, architecture, trade-offs and final result. I use it as a working layer across research, coding, debugging, refactoring, documentation and repetitive tasks — not as a replacement for understanding what I'm shipping.
-
-<br/>
-
-```ts
-const wayIWork = {
-  curiosity: "high",
-  egoAboutTools: "low",
-  ai: "copilot, not autopilot",
-  code: "readable before clever",
-  finishLine: "useful + clear + shipped"
-};
+rough idea
+   ↓
+understand the context
+   ↓
+ask better questions
+   ↓
+use AI to explore / compare / accelerate
+   ↓
+build the real thing
+   ↓
+read it · test it · question it
+   ↓
+polish until it feels intentional
 ```
 
 <br/>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### 03 — the way I work
 
-### THINK
-Reduce the problem until the important part becomes obvious.
-
-</td>
-<td width="33%" valign="top">
-
-### BUILD
-Move quickly without turning the system into something I can't explain later.
-
-</td>
-<td width="33%" valign="top">
-
-### REFINE
-Test awkward cases, remove friction, and keep going after “it works.”
-
-</td>
-</tr>
-</table>
+`think` → `build` → `break` → `understand why` → `refine` → `ship`
 
 <br/>
 
-```text
-> less theatre
-> more useful things
-> keep the surface quiet
-> make the inside strong
-```
+| principle | what it means to me |
+|---|---|
+| **useful > impressive** | the product has to solve something before it performs for attention |
+| **readable > clever** | code I can explain later is better than code that only looks smart now |
+| **system > isolated feature** | every decision affects something else |
+| **finished > almost polished** | awkward cases matter just as much as the happy path |
+| **AI = leverage** | speed is valuable only if understanding survives |
 
-<div align="right">
-<sub>ihidna / 2026</sub>
+<br/>
+
+### 04 — experience, without the résumé voice
+
+I prefer learning by shipping real things, hitting real constraints, fixing what breaks, and then making the next version cleaner.
+
+That means I spend time moving between UI, APIs, data, auth, integrations, deployment, debugging and automation instead of staying inside one narrow layer.
+
+I do not collect technologies for the sake of listing them. I choose tools based on the problem and keep learning whatever the next useful thing requires.
+
+<br/>
+
+---
+
+<div align="center">
+
+<sub>less noise / more useful things</sub>
+
+<sub>ihidna · 2026</sub>
+
 </div>
